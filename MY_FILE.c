@@ -1,4 +1,4 @@
-/* veuillez 'sudo apt install indent' avant de 'make' */
+/* veuillez 'sudo apt install indent' et 'sudo apt install valgrind' avant de 'make' */
 #include "MY_FILE.h"
 #include <string.h>
 #include <sys/types.h>
